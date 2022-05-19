@@ -55,3 +55,9 @@ p{
     justify-content:left;
 
 }
+.imagecontainer2 {
+    display: flex;
+    flex-direction:row;
+    justify-content:right;
+}
+
